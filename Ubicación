@@ -1,0 +1,7 @@
+echo "# ps-quico-octo-cusc-s" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "primer compromiso" 
+git branch -M main 
+git remoto agregar origen https://github.com/ madvax-droid / ps-quico-octo-cusc-s.git
+ git push -u origin main
